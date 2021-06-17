@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar.Bridge">
+        <!--  Customize your theme here.  -->
+        <item name="colorPrimary">#fdd5b1</item>
+        <item name="colorPrimaryDark">#653D1E</item>
+        <item name="colorAccent">#FF98531E</item>
+    </style>
+
+    <style name="titleLogo">
+        <item name="android:fontFamily">@font/sensei_medium</item>
+        <item name="android:textColor">#FF98531E</item>
+        <item name="android:textSize">42sp</item>
+        <item name="android:lineSpacingMultiplier">1.3</item>
+    </style>
+
+    <style name="latoFont">
+        <item name="android:fontFamily">@font/lato_italic</item>
+    </style>
+</resources>
